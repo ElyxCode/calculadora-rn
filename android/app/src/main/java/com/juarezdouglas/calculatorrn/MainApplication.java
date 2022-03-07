@@ -1,4 +1,5 @@
-package com.calculadora;
+//package com.calculadora;
+package com.juarezdouglas.calculatorrn;
 
 import android.app.Application;
 import android.content.Context;
