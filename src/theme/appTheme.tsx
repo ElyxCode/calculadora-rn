@@ -29,7 +29,7 @@ export const styles = StyleSheet.create({
         justifyContent: 'center',
         borderRadius: 10,
         marginBottom: 18,
-        paddingHorizontal: 10  
+        paddingHorizontal: 20  
     },
 
 });
